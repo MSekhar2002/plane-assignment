@@ -54,9 +54,9 @@ This project is a custom right-click context menu with advanced features such as
    ```
 
 ## Bonus Features 
-- **Custom Hooks**: Implement reusable logic for state management.
+- **Custom Hooks**: Implemented reusable logic for state management.
 - **Accessibility Improvements**:
-  - Use ARIA roles for better screen reader support.
-  - Ensure proper focus management when navigating via keyboard.
+  - Used ARIA roles for better screen reader support.
+  - Ensured proper focus management when navigating via keyboard.
 
 
